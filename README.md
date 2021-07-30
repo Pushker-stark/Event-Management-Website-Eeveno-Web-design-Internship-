@@ -11,4 +11,4 @@ Here are the details of all team members
 
 
 This project is hosted at [link1](https://anandprabhakar0507.github.io/Event-Management-Website-Eeveno-Web-design-Internship-/)
-                           [link2](https://git.io/JT7dx)
+                           [link2](https://git.io/JT7dx)[link3](https://lakshya.surge.sh/index.html#lakshya)
